@@ -1,16 +1,13 @@
-### Hi there 👋
+### Pro skidder/computer whiz
 
-<!--
-**ripoffuser/ripoffuser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm aidiotwithagun. Also known as 2o3t, penguin, cta, etc, etc.
+I use Lua as a primary source code, but you may see me use Java (neverwin.cc, proprietary, mc hackerman client), Python, C#, or C++.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Contact
+Doscord: 2operators2terrorists#9508
+ | WRD Forums: aidiotwithagun
+ | Roblox: thisistestlol
+ | Yahtabe: KSK Soldier
+ | Steam: BOT Minh
+ 
+# Tools
