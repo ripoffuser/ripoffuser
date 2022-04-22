@@ -5,9 +5,7 @@ I use Lua as a primary source code, but you may see me use Java (neverwin.cc, pr
 
 # Contact
 Doscord: 2operators2terrorists#9508
- | WRD Forums: aidiotwithagun
+ | WRD Forums: aidiotwithagun (inactive)
  | Roblox: thisistestlol
  | Yahtabe: KSK Soldier
  | Steam: BOT Minh
- 
-# Tools
